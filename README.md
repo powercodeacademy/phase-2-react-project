@@ -137,9 +137,37 @@ You can consult the [json-server docs][] for more information.
 
 [json-server docs]: https://www.npmjs.com/package/json-server
 
+### Planning
+
+- Plan out your features
+- Develop user stories
+  - “As [ a user ], I want [ to perform this action ] so that
+    [ I can accomplish this goal ].”
+  - Features should not need you there to explain them to users
+  - Create a `user-stories.md` file and add your user stories there (in the front end repo)
+
+### Project Pitches
+
+Before you start working on your project, you'll pitch your project idea to your
+instructors for approval and feedback.
+
+For your project pitch, you should include:
+
+- The basic story of your application
+- The core features of your MVP
+- The data your plan to persist and how you will structure it
+- Challenges you expect to face
+- How you are meeting the requirements of the project
+
+Reach out to the instructor asynchronously to schedule a time for your pitch.
+
+### MVP ASAP
+
+- Build a Minimum Viable Product (MVP) as quickly as possible.
+
 ## Deploying
 
-When your project is complete, you are encouraged to deploy it! You'll need to
+When your project is COMPLETE, you are encouraged to deploy it! You'll need to
 deploy your frontend and backend repos to their own standalone servers.
 
 For your backend, if you are using `json-server`, you will need a service
