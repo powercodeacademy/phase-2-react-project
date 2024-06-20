@@ -1,4 +1,4 @@
-# [Flex] Phase 2 Project Review Guidelines
+# Phase 2 Project Review Guidelines
 
 ## Project Requirements
 
